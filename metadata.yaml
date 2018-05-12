@@ -1,0 +1,30 @@
+_repo: De-l--ducation-d-un-homme-sauvagesauvage-de-l-Aveyron_20966
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Itard, Jean Marc Gaspard
+    alias: Itard, J. M. G. (Jean Marc Gaspard)
+    birthdate: 1775
+    deathdate: 1838
+    gutenberg_agent_id: '9631'
+    url: http://www.gutenberg.org/2009/agents/9631
+description: ''
+gutenberg_bookshelf: FR Education et Enseignement
+gutenberg_issued: '2007-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20966'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wild Boy of Aveyron'
+- !lcsh 'Feral children'
+- !lcc 'GN'
+title: "De l'éducation d'un homme sauvage\r\nou des premiers développemens physiques\
+  \ et moraux du jeune sauvage de l'Aveyron"
+url: http://www.gutenberg.org/ebooks/20966
